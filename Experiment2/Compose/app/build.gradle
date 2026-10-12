@@ -9,7 +9,7 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.experiment3"
+        applicationId "com.example.experiment2.compose"
         minSdk 24
         targetSdk 34
         versionCode 1
