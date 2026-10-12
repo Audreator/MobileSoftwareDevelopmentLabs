@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Experiment3</string>
+    <string name="menu_listview">1. ListView的用法</string>
+    <string name="menu_dialog">2. 自定义AlertDialog</string>
+    <string name="menu_xml_menu">3. 使用XML定义菜单</string>
+    <string name="menu_action_mode">4. ActionMode上下文菜单</string>
+    <string name="menu_recycler">5. RecyclerView列表</string>
+    <string name="title_dialog">CustomDialogTest</string>
+    <string name="title_menu">MenuTest</string>
+    <string name="title_action_mode">ActionModeTest</string>
+    <string name="title_recycler">RecyclerViewTest</string>
+    <string name="btn_show_dialog">显示自定义对话框</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_sign_in">Sign in</string>
+    <string name="test_text">用于测试的内容</string>
+    <string name="menu_font_size">字体大小</string>
+    <string name="menu_size_small">小</string>
+    <string name="menu_size_medium">中</string>
+    <string name="menu_size_large">大</string>
+    <string name="menu_normal">普通菜单项</string>
+    <string name="menu_font_color">字体颜色</string>
+    <string name="menu_color_red">红色</string>
+    <string name="menu_color_black">黑色</string>
+    <string name="action_delete">删除</string>
+    <string name="action_mode_title">1 selected</string>
+    <string name="toast_normal">点击了普通菜单项</string>
+    <string name="btn_add_record">增加一条记录</string>
+</resources>

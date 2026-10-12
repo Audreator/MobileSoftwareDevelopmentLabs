@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#3F51B5</color>
+    <color name="dialog_header">#FEBA32</color>
+    <color name="menu_bar">#F2F2F2</color>
+    <color name="menu_bar_dark">#E0E0E0</color>
+    <color name="menu_bar_text">#212121</color>
+    <color name="action_mode_bar">#002E3E</color>
+    <color name="action_mode_bar_dark">#00222E</color>
+    <color name="action_mode_selected">#33B5E5</color>
+    <color name="list_row_bg">#FBFBFB</color>
+</resources>
